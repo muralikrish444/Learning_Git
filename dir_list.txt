@@ -1,0 +1,11 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 84E1-55C4
+
+ Directory of C:\Users\gurram3\Documents\Preparation\Git_Test\Learning_Git
+
+01/08/2020  05:54 PM    <DIR>          .
+01/08/2020  05:54 PM    <DIR>          ..
+01/08/2020  05:54 PM                 0 dir_list.txt
+01/08/2020  05:39 PM                51 README.md
+               2 File(s)             51 bytes
+               2 Dir(s)  293,250,084,864 bytes free
