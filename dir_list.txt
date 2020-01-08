@@ -3,9 +3,11 @@
 
  Directory of C:\Users\gurram3\Documents\Preparation\Git_Test\Learning_Git
 
-01/08/2020  05:54 PM    <DIR>          .
-01/08/2020  05:54 PM    <DIR>          ..
-01/08/2020  05:54 PM                 0 dir_list.txt
+01/08/2020  05:58 PM    <DIR>          .
+01/08/2020  05:58 PM    <DIR>          ..
+01/08/2020  06:02 PM                 0 dir_list.txt
+01/08/2020  05:58 PM                47 file1.txt
+01/08/2020  05:58 PM                47 file2.txt
 01/08/2020  05:39 PM                51 README.md
-               2 File(s)             51 bytes
-               2 Dir(s)  293,250,084,864 bytes free
+               4 File(s)            145 bytes
+               2 Dir(s)  293,249,503,232 bytes free
